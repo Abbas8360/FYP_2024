@@ -3,9 +3,7 @@
 
 
 Authors
-Abbas Sarfaraz                              F21-IET-BS-030
-
-Syed M. Hani Hassan                         F21-IET-BS-010
+Abbas Sarfaraz                              F21-IET-BS-30
 
 Supervisor
 Prof. Dr. Saud Altaf
